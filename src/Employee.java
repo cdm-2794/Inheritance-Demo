@@ -14,8 +14,4 @@ public class Employee {
 		this.empsal = empsal;
 	}	
 	
-	 void show()
-	{
-		System.out.println("Method of Parent class");
-	}
 }
