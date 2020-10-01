@@ -5,3 +5,5 @@ In this project currrently we have 3 class
 Main class
 Employe class :- including Employee details
 Idprof class :- extending employee class and adding new value pan Number and Adhar Number
+
+Added Work from Home Allowncess
