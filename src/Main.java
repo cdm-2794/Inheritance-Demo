@@ -8,6 +8,8 @@ public class Main {
 		Idproof	e2 =new Idproof(102, "RAM", "XYZ", 12500, 12456, 1648);
 		System.out.println(e2);
 	
+		WfhAllownce e3 = new WfhAllownce(103, "Naresh", "Anayst", 25000, 1200, 800);
+		System.out.println(e3);
 	}
 
 }
